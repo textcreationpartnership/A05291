@@ -1057,7 +1057,7 @@ of hate;</l>
             <lg n="80">
                <pb facs="tcp:8880:14"/>
                <head>80</head>
-               <l>The third is of the worke and true effect,<milestone type="tcpmilestone" unit="unspecified"/>
+               <l>The third is of the worke and true effect,<milestone type="tcpmilestone" unit="unspecified" n=""/>
                </l>
                <l>Which in this place as proper doth consist;</l>
                <l>To shew good actions, and the bad reiect;</l>
